@@ -203,6 +203,7 @@ This section addresses some common issues you may encounter while setting up or 
     ```
 
 For further assistance, feel free to reach out to our community or check the [issues section](https://github.com/UppuluriKalyani/ML-Nexus/issues) on GitHub.
+Happy Learning!
 
 
 ## 💥 How to Contribute to ML-Nexus?
